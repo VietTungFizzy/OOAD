@@ -1,0 +1,14 @@
+C:\Users\ADmin\source\repos\OOAD\OOAD\bin\Debug\OOAD.exe.config
+C:\Users\ADmin\source\repos\OOAD\OOAD\bin\Debug\OOAD.exe
+C:\Users\ADmin\source\repos\OOAD\OOAD\bin\Debug\OOAD.pdb
+C:\Users\ADmin\source\repos\OOAD\OOAD\obj\Debug\OOAD.csprojAssemblyReference.cache
+C:\Users\ADmin\source\repos\OOAD\OOAD\obj\Debug\OOAD.Properties.Resources.resources
+C:\Users\ADmin\source\repos\OOAD\OOAD\obj\Debug\OOAD.csproj.GenerateResource.cache
+C:\Users\ADmin\source\repos\OOAD\OOAD\obj\Debug\OOAD.csproj.CoreCompileInputs.cache
+C:\Users\ADmin\source\repos\OOAD\OOAD\obj\Debug\OOAD.exe
+C:\Users\ADmin\source\repos\OOAD\OOAD\obj\Debug\OOAD.pdb
+C:\Users\ADmin\source\repos\OOAD\OOAD\obj\Debug\OOAD.BaoGia.resources
+C:\Users\ADmin\source\repos\OOAD\OOAD\obj\Debug\OOAD.BaoGiaTheoYC.resources
+C:\Users\ADmin\source\repos\OOAD\OOAD\obj\Debug\OOAD.BaoGiaTrucTiep.resources
+C:\Users\ADmin\source\repos\OOAD\OOAD\obj\Debug\OOAD.THYCKH.resources
+C:\Users\ADmin\source\repos\OOAD\OOAD\obj\Debug\OOAD.THYCKH_3T.resources
