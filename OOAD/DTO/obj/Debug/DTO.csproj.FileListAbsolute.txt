@@ -1,0 +1,9 @@
+C:\School\shit\OOAD\OOAD\DTO\bin\Debug\DTO.exe.config
+C:\School\shit\OOAD\OOAD\DTO\bin\Debug\DTO.exe
+C:\School\shit\OOAD\OOAD\DTO\bin\Debug\DTO.pdb
+C:\School\shit\OOAD\OOAD\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\School\shit\OOAD\OOAD\DTO\obj\Debug\DTO.Properties.Resources.resources
+C:\School\shit\OOAD\OOAD\DTO\obj\Debug\DTO.csproj.GenerateResource.cache
+C:\School\shit\OOAD\OOAD\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\School\shit\OOAD\OOAD\DTO\obj\Debug\DTO.exe
+C:\School\shit\OOAD\OOAD\DTO\obj\Debug\DTO.pdb

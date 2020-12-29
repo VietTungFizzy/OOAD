@@ -26,3 +26,13 @@ C:\School\shit\OOAD\OOAD\OOAD\obj\Debug\OOAD.csproj.GenerateResource.cache
 C:\School\shit\OOAD\OOAD\OOAD\obj\Debug\OOAD.csproj.CoreCompileInputs.cache
 C:\School\shit\OOAD\OOAD\OOAD\obj\Debug\OOAD.exe
 C:\School\shit\OOAD\OOAD\OOAD\obj\Debug\OOAD.pdb
+C:\School\shit\OOAD\OOAD\OOAD\bin\Debug\BUS.exe
+C:\School\shit\OOAD\OOAD\OOAD\bin\Debug\DTO.exe
+C:\School\shit\OOAD\OOAD\OOAD\bin\Debug\DAL.exe
+C:\School\shit\OOAD\OOAD\OOAD\bin\Debug\BUS.pdb
+C:\School\shit\OOAD\OOAD\OOAD\bin\Debug\BUS.exe.config
+C:\School\shit\OOAD\OOAD\OOAD\bin\Debug\DTO.pdb
+C:\School\shit\OOAD\OOAD\OOAD\bin\Debug\DTO.exe.config
+C:\School\shit\OOAD\OOAD\OOAD\bin\Debug\DAL.pdb
+C:\School\shit\OOAD\OOAD\OOAD\bin\Debug\DAL.exe.config
+C:\School\shit\OOAD\OOAD\OOAD\obj\Debug\OOAD.csproj.CopyComplete

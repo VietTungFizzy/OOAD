@@ -20,5 +20,7 @@ namespace DAL
         {
             connectionString = ConfigurationManager.AppSettings["ConnectionString"];
         }
+
+
     }
 }
