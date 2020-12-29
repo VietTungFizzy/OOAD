@@ -10,5 +10,15 @@ namespace BUS
 {
     public class HangHoaBUS
     {
+        private HangHoaDAL hhdal;
+        public HangHoaBUS()
+        {
+            hhdal = new HangHoaDAL();
+        }
+
+        public List<HangHoaDTO> select()
+        {
+            return hhdal.select();
+        }
     }
 }

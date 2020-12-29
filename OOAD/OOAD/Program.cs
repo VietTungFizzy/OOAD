@@ -16,7 +16,7 @@ namespace OOAD
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new BaoGiaTheoYC());
+            Application.Run(new BaoGiaTrucTiep());
         }
     }
 }
