@@ -16,7 +16,6 @@ namespace DTO
         private string sdt;
         private string mathanhtoan;
         private string maHHD;
-        private string email;
 
         public string Id { get => id; set => id = value; }
         public string Cmnd { get => cmnd; set => cmnd = value; }
@@ -26,6 +25,5 @@ namespace DTO
         public string Sdt { get => sdt; set => sdt = value; }
         public string Mathanhtoan { get => mathanhtoan; set => mathanhtoan = value; }
         public string MaHHD { get => maHHD; set => maHHD = value; }
-        public string Email { get => email; set => email = value; }
     }
 }
